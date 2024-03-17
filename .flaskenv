@@ -1,0 +1,2 @@
+FLASK_APP=src.rss
+FLASK_DEBUG=1
